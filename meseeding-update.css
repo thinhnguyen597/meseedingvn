@@ -1,0 +1,40 @@
+.kt-grid.kt-grid--hor:not(.kt-grid--desktop):not(.kt-grid--desktop-and-tablet):not(.kt-grid--tablet):not(.kt-grid--tablet-and-mobile):not(.kt-grid--mobile) > .kt-grid__item.kt-grid__item--fluid, .kt-grid.kt-grid--hor:not(.kt-grid--desktop):not(.kt-grid--desktop-and-tablet):not(.kt-grid--tablet):not(.kt-grid--tablet-and-mobile):not(.kt-grid--mobile) > .kt-grid__item.kt-grid__item--fluid {background: #dedede;}
+.kt-widget.kt-widget--user-profile-3 .kt-widget__top .kt-widget__content .kt-widget__head .kt-widget__username{font-weight: bold;}
+.text-warning {
+    color: #949494 !important;
+}
+.text-primary {
+    color: #949494 !important;
+}
+.fa-user:before {
+    content: "\f508";
+}
+.fa-check:before {
+    color: #2e88ff;
+    content: "\f058";
+    margin-left: -5px;
+}
+.text-success {
+    color: #464646 !important;
+}
+.fa-star:before {
+    content: "\f559";
+}
+.fa-money-check-alt:before {
+    content: "\f2c2";
+}
+.fa-money-check:before {
+    content: "\f200";
+}
+.fa-university:before {
+    content: "\f53d";
+}
+.payment-title{display:none;}.nav-pills,.nav-tabs{margin:0}.payment-row.bank_auto label {color: #0065ff;}
+.nav-tabs .nav-item .nav-link.active,.nav-tabs .nav-item .nav-link:active,.nav-tabs .nav-item .nav-link:hover{background:#525252;color:#ffffff;text-align:center}
+.nav-tabs .nav-item .nav-link{color:#1b1d31;background:#dee2e6;text-align:center}
+.nav-tabs .nav-item{margin-bottom:-1px;width:50%}
+.nav-tabs .nav-item .nav-link.active i,.nav-tabs .nav-item .nav-link:active i,.nav-tabs .nav-item .nav-link:hover i{color:#fff}
+@media screen and (max-width:1124px){.nav-tabs .nav-item{margin-bottom:5px;width:100%}}
+@media screen and (max-width:990px){.nav-tabs .nav-item{margin-bottom:-1px;width:50%}}
+@media screen and (max-width:760px){.nav-tabs .nav-item{margin-bottom:5px;width:100%}}
+@media screen and (max-width:410px){.text-warning{display: none;}}
